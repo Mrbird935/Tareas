@@ -1,0 +1,20 @@
+head{
+    background-color: green;
+}
+
+body{
+    background-color: gainsboro;
+}
+h1 {
+    color: olivedrab;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+   color: mediumturquoise; 
+  font-size: 35px;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
